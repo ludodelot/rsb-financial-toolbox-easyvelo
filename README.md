@@ -56,7 +56,6 @@ Financial modeling · P&L forecasting · Balance sheet structuring · Cost of Ca
 6. [Visuals](#️-visuals)
 7. [Conclusion](#-conclusion)
 8. [Repo contents](#-repo-contents)
-9. [A note on AI usage](#-a-note-on-ai-usage-in-this-repo)
 
 ---
 
@@ -166,12 +165,6 @@ The model **supports the idea's viability**: at the planned 80% fleet utilizatio
 | [`EasyVelo_Financial_Model_LDELOT.xlsx`](EasyVelo_Financial_Model_LDELOT.xlsx) | Full financial model behind the deck — 5 sheets: Assumptions, P&L, Balance Sheet, Cost of Capital, Break Even |
 | [`Assignment_Brief.docx`](Assignment_Brief.docx) | Official assignment brief (objective, required slide contents, grading weight) |
 | `figures/` | P&L bridge and break-even charts (rendered from the model's own figures) |
-
-## 🤖 A note on AI usage in this repo
-
-The **business idea, financial model, SWOT, and slide deck are Team 6's own work**, submitted for the Financial Toolbox course.
-
-**Claude (Anthropic)** was used *afterwards*, and only for one thing: organizing the local project files and publishing this repository to GitHub in a clean, structured way (including rendering the two charts in `figures/` directly from the model's own numbers).
 
 ---
 
